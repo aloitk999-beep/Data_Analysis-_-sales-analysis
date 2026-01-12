@@ -1,4 +1,4 @@
-
+![prime](https://github.com/aloitk999-beep/Data_Analysis-_-sales-analysis/blob/main/prime.JPG)
 ## تحليل مبيعات بإستخدام Power BI
 # عن المشروع
 - تحليل المبيعات لشركة لمراقبة أداء المبيعات و الأرباح مساعدة متخذي القرار على فهم البيانات بشكل أوضح.
